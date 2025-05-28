@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☀️ Ecossistema Energia
 
 Sistema completo de gestão para empresas do setor de energia solar, com foco em eficiência, integração de dados, usabilidade e escalabilidade. Idealizado e desenvolvido por Gabriela Rodrigues e equipe, esse ecossistema unifica operações administrativas, comerciais e financeiras com segurança e inteligência.
@@ -94,3 +95,6 @@ Desenvolvido por [Gabriela Rodrigues](https://github.com/ganadunny13) com foco e
 
 ## 📜 Licença
 Projeto privado. Para uso comercial ou adaptação, entre em contato.
+=======
+# Software--4w-energia
+>>>>>>> 6f0946e4986bad811684ec5916cf5abf7a32d4ea
