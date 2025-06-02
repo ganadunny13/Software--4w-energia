@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@react-email/components": "^0.0.41",
+    "@sendgrid/mail": "^8.1.5",
+    "@sentry/node": "^9.24.0",
+    "@sentry/react": "^9.24.0",
+    "@sentry/tracing": "^7.120.3",
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "emailjs-com": "^3.2.0",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.1.0",
+    "twilio": "^5.7.0",
+    "winston": "^3.17.0",
+    "winston-transport-sentry-node": "^3.0.0"
+  }
+}
