@@ -1,0 +1,17 @@
+{
+  "extends": ["development"],
+  "hints": {
+    "axe/structure": [
+      "default",
+      {
+        "list": "warning"
+      }
+    ],
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": ["meta[name=theme-color]"]
+      }
+    ]
+  }
+}
